@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://anolkrghosh.github.io/
+
+# Sitemaps
+Sitemap: https://anolkrghosh.github.io/gdsio/sitemap.xml
